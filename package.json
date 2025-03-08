@@ -1,6 +1,6 @@
 {
   "name": "clone-deep-non-nil",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@10.6.1",
   "description": "A package to replicate Lodash's `cloneDeep`/`cloneDeepWith` behavior while also removing any `undefined` or `null` values",
   "author": "shadowgate15 (https://github.com/shadowgate15)",
